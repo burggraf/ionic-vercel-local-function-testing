@@ -31,4 +31,6 @@ Did you mean "test"?
 ## Issue #2
 * What should the Dev Command be?
 * How do I run "ionic serve" to test the front-end on port 8100 (the standard ionic test setup) and run vercel dev on another port to test the local functions?
+* NOTICE: Serverless functions work fine here:  https://ionic-vercel-local-function-testing.vercel.app/api/hello
+* How do I run the "hello" function locally via http://localhost:port/api/hello for testing functions locally without having to go through the deploy process each time?
 
