@@ -28,3 +28,7 @@ run "ng help".
 Did you mean "test"?
 
 ```
+## Issue #2
+* What should the Dev Command be?
+* How do I run "ionic serve" to test the front-end on port 8100 (the standard ionic test setup) and run vercel dev on another port to test the local functions?
+
